@@ -4,18 +4,18 @@
 # Last Updated: 2026-03-05
 
 # --- [ROBLOX: High-Risk Platforms] ---
-roblox.com
-www.roblox.com
-api.roblox.com
-assetgame.roblox.com
-setup.roblox.com
+||roblox.com^
+||www.roblox.com^
+||api.roblox.com^
+||assetgame.roblox.com^
+||setup.roblox.com^
 rbxcdn.com
 chat.roblox.com
 
 # --- [STRANGER CHAT: Predatory/Grooming Risk] ---
 omegle.com
 chatroulette.com
-chat-avenue.com
+||chat-avenue.com^
 kik.com
 monkey.app
 yubo.live
