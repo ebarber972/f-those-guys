@@ -49,3 +49,54 @@ csgolounge.com
 hellstore.org
 stake.com
 roobet.com
+
+# --- [UNMODERATED SOCIAL & CHAT: High Predator Risk] ---
+# Known for anonymous "blind" messaging and disappearing content.
+kik.com
+yubo.live
+monkey.cool
+whisper.sh
+tellonym.me
+ask.fm
+f3.cool
+allotalk.com
+chatlib.com
+tohlot.com
+strangermeetup.com
+chateasy.com
+monkey.app
+hoop.app
+wizzapp.com
+recontre-ados.com
+
+# --- [EXPLOITATIVE GAMING & SOCIAL ECOSYSTEMS] ---
+# Platforms with documented grooming "hop" patterns (Gaming -> Chat).
+# Note: Many predators use these to move kids to unmonitored DMs.
+imvu.com
+live.me
+bigo.tv
+yikyak.com
+houseparty.com
+aminoapps.com
+
+# --- [PREDATORY AI & "DEEPFAKE" HUBS] ---
+# 2026 reports show a surge in AI tools used for digital abuse/grooming.
+character.ai
+spicychat.ai
+janitorai.com
+candy.ai
+muah.ai
+crushon.ai
+ninja-chat.ai
+grok.com
+
+# --- [DATA SCRAPERS: Scammer & Predator Intel] ---
+# These sites aggregate minor data and family connections.
+whitepages.com
+mylife.com
+spokeo.com
+beenverified.com
+instantcheckmate.com
+intelius.com
+peoplesmart.com
+radaris.com
