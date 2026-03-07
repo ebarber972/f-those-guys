@@ -1,102 +1,78 @@
-# Title: F* Those Guys!
-# Description: A public blocklist for sites with predatory motives and safety risks.
-# Maintained by: Eric B. (Unique Dezign Co)
-# Last Updated: 2026-03-05
-
 # --- [ROBLOX: High-Risk Platforms] ---
-roblox.com
-www.roblox.com
-api.roblox.com
-assetgame.roblox.com
-setup.roblox.com
-rbxcdn.com
-chat.roblox.com
+||roblox.com^
+||www.roblox.com^
+||api.roblox.com^
+||assetgame.roblox.com^
+||setup.roblox.com^
+||rbxcdn.com^
+||chat.roblox.com^
 
 # --- [STRANGER CHAT: Predatory/Grooming Risk] ---
-omegle.com
-chatroulette.com
-chat-avenue.com
-kik.com
-monkey.app
-yubo.live
-emeraldchat.com
-camsurf.com
-chatspin.com
-tinychat.com
+||omegle.com^
+||chatroulette.com^
+||chat-avenue.com^
+||kik.com^
+||monkey.app^
+||yubo.live^
+||emeraldchat.com^
+||camsurf.com^
+||chatspin.com^
+||tinychat.com^
 
 # --- [UNMODERATED ANONYMOUS Q&A] ---
-ask.fm
-tellonym.me
-f3.cool
-qooh.me
+||ask.fm^
+||tellonym.me^
+||f3.cool^
+||qooh.me^
 
-# --- [PREDATORY AI COMPANIONS] ---
-spicychat.ai
-janitorai.com
-candy.ai
-muah.ai
-crushon.ai
-character.ai
+# --- [PREDATORY AI COMPANIONS & DEEPFAKE HUBS] ---
+||spicychat.ai^
+||janitorai.com^
+||candy.ai^
+||muah.ai^
+||crushon.ai^
+||character.ai^
+||ninja-chat.ai^
+||grok.com^
 
 # --- [TOXIC CONTENT BOARDS] ---
-4chan.org
-8kun.top
-kiwifarms.net
+||4chan.org^
+||8kun.top^
+||kiwifarms.net^
 
 # --- [PREDATORY GAMING/GAMBLING] ---
-csgoempire.com
-csgolounge.com
-hellstore.org
-stake.com
-roobet.com
+||csgoempire.com^
+||csgolounge.com^
+||hellstore.org^
+||stake.com^
+||roobet.com^
 
 # --- [UNMODERATED SOCIAL & CHAT: High Predator Risk] ---
-# Known for anonymous "blind" messaging and disappearing content.
-kik.com
-yubo.live
-monkey.cool
-whisper.sh
-tellonym.me
-ask.fm
-f3.cool
-allotalk.com
-chatlib.com
-tohlot.com
-strangermeetup.com
-chateasy.com
-monkey.app
-hoop.app
-wizzapp.com
-recontre-ados.com
+||whisper.sh^
+||allotalk.com^
+||chatlib.com^
+||tohlot.com^
+||strangermeetup.com^
+||chateasy.com^
+||monkey.cool^
+||hoop.app^
+||wizzapp.com^
+||recontre-ados.com^
 
 # --- [EXPLOITATIVE GAMING & SOCIAL ECOSYSTEMS] ---
-# Platforms with documented grooming "hop" patterns (Gaming -> Chat).
-# Note: Many predators use these to move kids to unmonitored DMs.
-imvu.com
-live.me
-bigo.tv
-yikyak.com
-houseparty.com
-aminoapps.com
-
-# --- [PREDATORY AI & "DEEPFAKE" HUBS] ---
-# 2026 reports show a surge in AI tools used for digital abuse/grooming.
-character.ai
-spicychat.ai
-janitorai.com
-candy.ai
-muah.ai
-crushon.ai
-ninja-chat.ai
-grok.com
+||imvu.com^
+||live.me^
+||bigo.tv^
+||yikyak.com^
+||houseparty.com^
+||aminoapps.com^
 
 # --- [DATA SCRAPERS: Scammer & Predator Intel] ---
-# These sites aggregate minor data and family connections.
-whitepages.com
-mylife.com
-spokeo.com
-beenverified.com
-instantcheckmate.com
-intelius.com
-peoplesmart.com
-radaris.com
+||whitepages.com^
+||mylife.com^
+||spokeo.com^
+||beenverified.com^
+||instantcheckmate.com^
+||intelius.com^
+||peoplesmart.com^
+||radaris.com^
