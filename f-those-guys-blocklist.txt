@@ -76,3 +76,6 @@
 ||intelius.com^
 ||peoplesmart.com^
 ||radaris.com^
+
+#--- [General Blocking:  Vendors without intergtiry] --- 
+||www.mrylens.com^
